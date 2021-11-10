@@ -1,16 +1,41 @@
-# crud_en_flutter
+# Dados de acesso
 
-A new Flutter project.
+### Administrador do sistema:
+Login: admin<br>
+Senha: 123
 
-## Getting Started
+### Cliente do sistema:
+Login: user<br>
+Senha: 123
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Telas
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Login do sistema:<br><br>
+<a href="#"><img src="https://i.imgur.com/LzBH6SD.png" title="source: imgur.com" /></a>
+<br><br><br>
+ 
+ - Página principal (todas as ordens):<br><br>
+ <a href="#"><img src="https://i.imgur.com/Aqgz4Ll.png" title="source: imgur.com" /></a>
+<br><br><br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Página de ordem pendentes:<br><br>
+ <a href="#"><img src="https://i.imgur.com/tXoCaYH.png" title="source: imgur.com" /></a>
+<br><br><br>
+
+
+ - Página em Manutenção:<br><br>
+<a href="#"><img src="https://i.imgur.com/LKbkUZh.png" title="source: imgur.com" /></a>
+<br><br><br>
+
+
+ - Página de detalhes da ordem:<br><br>
+<a href="#"><img src="https://i.imgur.com/1HwXNTA.png" title="source: imgur.com" /></a>
+<br><br><br>
+
+
+# Observações
+
+ - Dentro da Página principal (todas as ordens):<br><br>
+<a href="#"><img src="https://i.imgur.com/XPYZXRo.png" title="source: imgur.com" /></a> - Botão para página de pendentes
+  
